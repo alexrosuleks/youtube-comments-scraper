@@ -1,0 +1,15 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ],
+  "maxComments": 10,
+  "sortCommentsBy": "NEWEST_FIRST",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
